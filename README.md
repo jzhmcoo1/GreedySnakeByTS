@@ -21,4 +21,4 @@ npm run build
 
 # 项目预览
 
-![image-20210224170849776](/Users/lixing/%E5%AD%A6%E4%B9%A0%E6%91%B8%E9%B1%BC/ts%E5%AD%A6%E4%B9%A0/code/05_exercise/README.assets/image-20210224170849776.png)
+![image-20210224170849776](./README.assets/image-20210224170849776.png)
